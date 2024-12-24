@@ -1,5 +1,5 @@
 #!/bin/bash
-# nmap -p- -sS -sC -sV --min-rate 5000 -n -vvv -Pn 10.10.10.10
+
 # "SecDefaultAction \"phase:1,log,auditlog,pass\""
 # "SecDefaultAction \"phase:1,log,auditlog,deny,status:403\""
 
